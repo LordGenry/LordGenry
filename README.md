@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+I don't work with any so called liberal-russians, no rashists and any other terrorists.
 
 <!--
 **LordGenry/LordGenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
